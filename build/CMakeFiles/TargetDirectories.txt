@@ -1,0 +1,3 @@
+/home/nathanaelm/Documents/DEV/game/build/CMakeFiles/testing.dir
+/home/nathanaelm/Documents/DEV/game/build/CMakeFiles/edit_cache.dir
+/home/nathanaelm/Documents/DEV/game/build/CMakeFiles/rebuild_cache.dir

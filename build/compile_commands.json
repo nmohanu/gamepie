@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/nathanaelm/Documents/DEV/game/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/testing.dir/main.cpp.o -c /home/nathanaelm/Documents/DEV/game/main.cpp",
+  "file": "/home/nathanaelm/Documents/DEV/game/main.cpp",
+  "output": "CMakeFiles/testing.dir/main.cpp.o"
+}
+]
